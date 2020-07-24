@@ -1,6 +1,26 @@
 {
-  "name": "api-routes-graphql",
+  "name": "@nejcm/nextjs-graphql",
   "version": "1.0.0",
+  "author": "Nejc Mursic <nmursi2@gmail.com> (https://github.com/nejcm)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nejcm/nextjs-graphql"
+  },
+  "bugs": {
+    "url": "https://github.com/nejc/nextjs-graphql/issues"
+  },
+  "homepage": "https://github.com/nejcm/nextjs-graphql",
+  "keywords": [
+    "nextjs",
+    "next.js",
+    "graphql",
+    "react",
+    "library",
+    "js",
+    "es6",
+    "ssr"
+  ],
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -13,6 +33,5 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "swr": "0.1.18"
-  },
-  "license": "ISC"
+  }
 }

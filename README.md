@@ -1,35 +1,23 @@
-# API routes with GraphQL server
+# Next.js graphql starter
 
-Next.js ships with [API routes](https://github.com/vercel/next.js#api-routes), which provide an easy solution to build your own `API`. This example shows their usage alongside [apollo-server-micro](https://github.com/apollographql/apollo-server/tree/main/packages/apollo-server-micro) to provide simple GraphQL server consumed by Next.js app.
+<a href="https://www.joypixels.com/profiles/emoji/package">
+  <img
+    height="128"
+    width="128"
+    alt="package"
+    src="https://d1j8pt39hxlh3d.cloudfront.net/emoji/emojione/5.5/png/unicode/128/1f4e6.png?192038471"
+  />
+</a>
+<br />
+<br />
 
-## Deploy your own
+## Table of Contents
 
-Deploy the example using [Vercel](https://vercel.com):
+- [💿 Installation](#-installation)
+- [LICENSE](#license)
+- [🚀 Deployment](#-deployment)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/api-routes-graphql)
-
-## How to use
-
-### Using `create-next-app`
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example api-routes-graphql api-routes-graphql-app
-# or
-yarn create next-app --example api-routes-graphql api-routes-graphql-app
-```
-
-### Download manually
-
-Download the example:
-
-```bash
-curl https://codeload.github.com/vercel/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/api-routes-graphql
-cd api-routes-graphql
-```
-
-Install it and run:
+## 💿 Installation
 
 ```bash
 npm install
@@ -39,4 +27,13 @@ yarn
 yarn dev
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## 🚀 Deployment
+
+You can deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+## LICENSE
+
+[MIT](LICENSE)
+
+[license-badge]: https://img.shields.io/npm/l/@nejcm/react-boilerplate.svg
+[license]: https://github.com/nejcm/react-boilerplate/blob/master/LICENSE
